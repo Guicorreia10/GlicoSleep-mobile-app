@@ -48,4 +48,4 @@ Apoiar utilizadores na monitorização da diabetes, promovendo uma melhor compre
 
 ---
 
-## 🏆 Projeto final de licenciatura classificado com **18/20 valores** (top desempenho académico)
+## 🏆 Projeto final de licenciatura classificado com **18/20 valores** 
