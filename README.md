@@ -46,6 +46,3 @@ Este projeto foi desenvolvido com base em práticas de Engenharia de Requisitos,
 
 Apoiar utilizadores na monitorização da diabetes, promovendo uma melhor compreensão da relação entre glicemia, alimentação e qualidade do sono.
 
----
-
-## 🏆 Projeto final de licenciatura classificado com **18/20 valores** 
